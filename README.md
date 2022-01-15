@@ -17,3 +17,7 @@ Results are available within Jupyter notebook in this repository, or via jupyter
 
 In order to check the code, please import environment from environment.yml file
 
+```
+conda env create -f environment.yml
+```
+
