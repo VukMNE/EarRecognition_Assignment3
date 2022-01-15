@@ -4,7 +4,7 @@ This repository is the result of work on Ear recognition assignment from Image b
 
 The model used is Convolutional Neural Network, and the network structure is motivated by the results of the study that can be found on the following link: https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-bmt.2016.0002
 
-We have achieved classification accuracy of 7%. 
+We have achieved classification accuracy of 71% on training set, and ~7% on independent test set. 
 
 Network has 6 Convolutional, 3 MaxPool, 3 Dropout and 3 Dense Layers in total.
 
